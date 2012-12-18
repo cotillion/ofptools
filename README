@@ -1,0 +1,16 @@
+
+pbo_read
+	Extracts files from the PBO container format.
+	Will uncompress files also.
+
+bin2cpp
+	Converts Opeartion Flashpoints .bin format to the human readable
+	.cpp format.
+
+INSTALL
+
+To compile just type 'make' in this directory. It should work.
+
+It's licened under the GPL.
+
+Erik Gävert	erik@gavert.net
